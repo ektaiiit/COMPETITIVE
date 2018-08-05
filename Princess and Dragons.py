@@ -5,3 +5,4 @@ for t in range(0,t):
     a = sorted(a)
     for n in range(0, n):
         
+hi deepanshu
